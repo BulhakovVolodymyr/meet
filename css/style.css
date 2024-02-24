@@ -107,10 +107,12 @@ a {
   background: #4d96a9;
   padding: 16px 40px;
 }
+
 .info_download span {
   padding-left: 4px;
   color: #8fe3f9;
 }
+
 .info_download:hover {
   background: #71c0d4;
 }
@@ -120,6 +122,7 @@ a {
   padding: 16px 29px;
   font-weight: 900;
 }
+
 .info_add:hover,
 .footer_download:hover {
   background: #b18bdd;
@@ -133,6 +136,7 @@ a {
   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
   border-radius: 8px;
 }
+
 .graph-01 .container {
   position: relative;
   height: 221px;
@@ -242,7 +246,7 @@ h2 {
 }
 
 .footer h2 {
-  width: 350px;
+  width: 450px;
   font-weight: 900;
   font-size: clamp(1.688rem, 1.438rem + 1.25vw, 2.5rem);
   line-height: 44px;
